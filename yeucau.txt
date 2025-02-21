@@ -1,0 +1,22 @@
+"Tôi đang phát triển một bot Discord bằng Node.js với discord.js. Tôi đã tạo một webhook trên Replit để nhận vote từ Top.gg. Webhook này đang chạy trên Express và lắng nghe tại /topgg-webhook.
+
+Hãy viết code hoàn chỉnh cho hệ thống vote, bao gồm:
+
+Webhook xử lý vote từ Top.gg:
+
+Nhận request từ Top.gg, kiểm tra Authorization Token.
+Lưu thời gian vote vào một tệp JSON hoặc cơ sở dữ liệu.
+Gửi tin nhắn đến kênh hoặc DM của người dùng trên Discord khi họ bỏ phiếu thành công.
+Lệnh /vote trong bot:
+
+Khi người dùng gõ /vote, bot sẽ kiểm tra họ có đủ điều kiện nhận thưởng không.
+Nếu họ đã vote trên Top.gg trong vòng 12 giờ qua, bot sẽ hiển thị thời gian chờ còn lại.
+Nếu họ đủ điều kiện, bot trao 500 tokens và cập nhật thời gian vote.
+Yêu cầu:
+
+Sử dụng hệ thống lệnh Peflix Commands (discord.js).
+Mọi lệnh phải nằm trong thư mục commands theo cấu trúc module.
+Lưu trữ dữ liệu người dùng trong một tệp JSON hoặc cơ sở dữ liệu SQLite để theo dõi lịch sử vote.
+Gửi thông báo khi người dùng vote thành công.
+Hiển thị thời gian chờ nếu họ đã vote trong vòng 12 giờ.
+Hãy viết mã nguồn hoàn chỉnh theo yêu cầu này."
