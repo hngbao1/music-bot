@@ -1,0 +1,12 @@
+{"level":"info","message":"Thiết lập chỉ mục ngữ cảnh hoàn tất","timestamp":"2025-02-09T14:00:23.726Z"}
+{"level":"info","message":"Thiết lập chỉ mục ngữ cảnh hoàn tất","timestamp":"2025-02-09T14:04:04.724Z"}
+{"level":"info","message":"Đang đăng ký các lệnh slash...","timestamp":"09-02-2025 21:19:21"}
+{"level":"info","message":"Đã đăng ký các lệnh slash thành công!","timestamp":"09-02-2025 21:19:21"}
+{"level":"info","message":"Thiết lập chỉ mục ngữ cảnh hoàn tất","timestamp":"09-02-2025 21:19:22"}
+{"level":"info","message":"Đã kết nối thành công với MongoDB và khởi động bot","timestamp":"09-02-2025 21:19:23"}
+{"level":"info","message":"Bot đã sẵn sàng với tên MeiVox#0416","timestamp":"09-02-2025 21:19:23"}
+{"level":"info","message":{"event":"lệnh_speak","guild":"🌸Family Nao🌸","kênh":"🔊┃𝗚𝗲𝗻𝗲𝗿𝗮𝗹","người_dùng":"hngbao1","nội_dung":"r hellp xin chào"},"timestamp":"09-02-2025 21:20:05"}
+{"level":"info","message":"Bot tự động rời kênh 🔊┃𝗚𝗲𝗻𝗲𝗿𝗮𝗹 do không còn ai trong kênh","timestamp":"09-02-2025 21:20:21"}
+{"level":"info","message":{"event":"lệnh_speak","guild":"🌸Family Nao🌸","kênh":"🔊┃𝗚𝗲𝗻𝗲𝗿𝗮𝗹","người_dùng":"hngbao1","nội_dung":"hello xinnnnn chào"},"timestamp":"09-02-2025 21:21:55"}
+{"level":"info","message":{"event":"lệnh_speak","guild":"🌸Family Nao🌸","kênh":"🔊┃𝗚𝗲𝗻𝗲𝗿𝗮𝗹","người_dùng":"hngbao1","nội_dung":"lag vãi"},"timestamp":"09-02-2025 21:22:17"}
+{"level":"info","message":{"event":"lệnh_speak","guild":"🌸Family Nao🌸","kênh":"🔊┃𝗚𝗲𝗻𝗲𝗿𝗮𝗹","người_dùng":"hngbao1","nội_dung":"hello xinnnnn chào"},"timestamp":"09-02-2025 21:23:37"}
