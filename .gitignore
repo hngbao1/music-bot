@@ -4,3 +4,5 @@ logs/
 yeucau.txt
 error.log
 combined.log
+.gitignore
+package-lock.json
